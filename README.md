@@ -1,4 +1,4 @@
-# story_app
+# Anime Search App
 
 A new Flutter application.
 
