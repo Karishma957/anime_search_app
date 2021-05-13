@@ -1,6 +1,6 @@
 # Anime Search App
 
-A Flutter application to find information about any anime using Rive.
+A Flutter application to find information about any anime with animations using Rive.
 
 # App UI
 <img src="outputImages/output1.gif" width="240" height="500">
